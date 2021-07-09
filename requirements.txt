@@ -1,0 +1,5 @@
+pytelegrambotapi
+pyautogui
+platform
+requests
+clr
