@@ -6,6 +6,7 @@ Windows Remote Admitistrations Tool for fully remote computer control via Telegr
 * Create a new telegram bot via @BotFather and copy its **API**
 * Find @ShowJsonBot to get your **id**. message -> from -> id
 * Paste your bot **API** and **id** into config.py file
+* Download [Python](https://www.python.org/downloads/) (**add to path**)
 * Download [OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/)
 * We need only OpenHardwareMonitorLib.dll from it. Place it into your main folder
 * Install necessary requirements using `pip install -r requirements.txt`
